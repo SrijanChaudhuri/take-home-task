@@ -52,3 +52,11 @@ Remember, **this is YOUR code**
 
 ## Good Luck!
 We're excited to see your implementation that balances technical prowess with elegant regulatory compliance skills. Happy coding!
+
+
+## Run the below code locally by
+
+- Set API key | `export ANTHROPIC_API_KEY='your-api-key'` 
+- Parse documents by `python parser.py`
+- Run interface | `python outputs.py`, Launches the web interface at http://127.0.0.1:7860 |
+
